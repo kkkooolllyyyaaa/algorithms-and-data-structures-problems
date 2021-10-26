@@ -3,7 +3,6 @@
 ### All solutions are divided by topics ###
 ### Used languages: ###
 * C++
-* C
 * Java
 * Python
 ## My [LeetCode](https://leetcode.com/swimfish7/)
