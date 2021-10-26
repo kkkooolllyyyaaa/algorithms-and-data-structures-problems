@@ -1,5 +1,5 @@
-# Решение задач с сайта
-## https://acmp.ru/ ##
+# Problem solutions from acmp web-site
+## [acmp](https://acmp.ru/) ##
 # Ссылка на профиль
 ## https://acmp.ru/index.asp?main=user&id=242796 ##
 ### Решения разделены по темам на сайте ###
