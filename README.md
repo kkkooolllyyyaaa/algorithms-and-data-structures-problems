@@ -1,4 +1,4 @@
-# Problem solutions from [acmp](https://acmp.ru/) web-site
+# Problem solutions [acmp](https://acmp.ru/), [codeforces](https://codeforces.com) and [leetcode](https://leetcode.com)
 
 ### All solutions are divided by topics ###
 ### Used languages: ###
@@ -6,6 +6,6 @@
 * Java
 * Python
 ### My profiles: ###
-* [LeetCode](https://leetcode.com/swimfish7/)
-* [Codeforces](https://codeforces.com/profile/swimfish7)
+* [leetcode](https://leetcode.com/swimfish7/)
+* [codeforces](https://codeforces.com/profile/swimfish7)
 * [acmp](https://acmp.ru/index.asp?main=user&id=242796)
