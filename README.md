@@ -1,4 +1,4 @@
-# Problem solutions from [acmp](https://acmp.ru/), [codeforces](https://codeforces.com) and [leetcode](https://leetcode.com)
+# Problem solutions from [acmp](https://acmp.ru/), [codeforces](https://codeforces.com), [leetcode](https://leetcode.com)
 
 ### All solutions are divided by topics ###
 ### Used languages: ###
