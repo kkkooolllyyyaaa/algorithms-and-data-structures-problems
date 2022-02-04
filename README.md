@@ -5,5 +5,6 @@
 * C++
 * Java
 * Python
-## My [LeetCode](https://leetcode.com/swimfish7/)
-## My [Codeforces](https://codeforces.com/profile/swimfish7)
+### Other: ###
+* My [LeetCode](https://leetcode.com/swimfish7/)
+* My [Codeforces](https://codeforces.com/profile/swimfish7)
