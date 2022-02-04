@@ -1,10 +1,11 @@
 # Problem solutions from [acmp](https://acmp.ru/) web-site
-# My [profile](https://acmp.ru/index.asp?main=user&id=242796)
+
 ### All solutions are divided by topics ###
 ### Used languages: ###
 * C++
 * Java
 * Python
-### Other: ###
-* My [LeetCode](https://leetcode.com/swimfish7/)
-* My [Codeforces](https://codeforces.com/profile/swimfish7)
+### My profiles: ###
+* [LeetCode](https://leetcode.com/swimfish7/)
+* [Codeforces](https://codeforces.com/profile/swimfish7)
+* [acmp](https://acmp.ru/index.asp?main=user&id=242796)
